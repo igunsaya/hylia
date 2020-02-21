@@ -7,4 +7,4 @@ postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ''
 ---
-and I asm a Full Stack Software Engineer @ Skyscanner. I mostly work with Javascript, React and trying to promote better a11y standards.
+and I am a Full Stack Software Engineer. I mostly work with Javascript, React and trying to promote better a11y standards.
